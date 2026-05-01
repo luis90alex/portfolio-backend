@@ -1,24 +1,32 @@
-# Python
-*.py[cod]
-__pycache__/
-.venv/
-
 # Build / output
-.web/
+*.db
+*.log
+*.zip
 build/
 dist/
 public/
 
+# Reflex
+.web/
+
+# Firebase
+.firebase/
+
 # Environment
 .env
 
-# Logs
-*.log
+# IDE
+.idea/
+.vscode/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/
+# Python
+*.py[cod]
+__pycache__/
+.venv/
+
+# Claude Code
+.claude/

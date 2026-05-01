@@ -92,6 +92,26 @@
       "github": "https://github.com/luis90alex/spring-boot-rest-project"
     },
     {
+      "icon": "layers",
+      "title": "Spring Cloud Microservices Architecture",
+      "subtitle": "Distributed backend with Eureka, Gateway, Feign and Config Server",
+      "description": "Microservices-based backend architecture built with Spring Boot and Spring Cloud. Includes service discovery with Eureka, API Gateway routing, centralized configuration server, and inter-service communication using OpenFeign. Demonstrates real-world patterns such as client-side load balancing, service registration, and distributed configuration management.",
+      "technologies": [
+        { "icon": "devicon-java-plain", "name": "Java" },
+        { "icon": "devicon-spring-plain", "name": "Spring Boot" },
+        { "icon": "devicon-spring-plain", "name": "Spring Cloud" },
+        { "icon": "devicon-spring-plain", "name": "Spring Cloud Gateway" },
+        { "icon": "devicon-spring-plain", "name": "Spring Cloud Eureka" },
+        { "icon": "devicon-spring-plain", "name": "Spring Cloud Config" },
+        { "icon": "devicon-spring-plain", "name": "OpenFeign" },
+        { "icon": "devicon-mysql-plain", "name": "MySQL" },
+        { "icon": "devicon-maven-plain", "name": "Maven" }
+      ],
+      "image": "/project_microservices.png",
+      "url": "",
+      "github": "https://github.com/luis90alex/ecommerce-microservices-demo"
+    },
+    {
       "icon": "code",
       "title": "Insurance Claim Fraud Detection",
       "subtitle": "Detección de fraude con machine learning",
