@@ -1,62 +1,62 @@
 {
-    "title": "Título",
-    "description": "Descripción",
+    "title": "Title",
+    "description": "Description",
     "image": "/favicon.ico",
     "avatar": "/favicon.ico",
-    "name": "Nombre",
-    "skill": "Habilidad principal",
-    "location": "Localización",
+    "name": "Name",
+    "skill": "Main skill",
+    "location": "Location",
     "media": {
         "email": "email@email.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com",
         "linkedin": "https://linkedin.com"
     },
-    "about": "Descripción",
+    "about": "Description",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Technology"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Technology"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Technology"
         }
     ],
     "experience": [
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años"
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "date": "Years"
         },
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años"
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "date": "Years"
         }
     ],
     "projects": [
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 },
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 }
             ],
             "image": "/favicon.ico",
@@ -65,17 +65,17 @@
         },
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 },
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 }
             ],
             "image": "/favicon.ico",
@@ -84,17 +84,17 @@
         },
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 },
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Technology"
                 }
             ],
             "image": "/favicon.ico",
@@ -105,30 +105,30 @@
     "training": [
         {
             "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "date": "Years",
             "certificate": "https://google.com"
         }
     ],
     "extras": [
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Title",
+            "description": "Description",
             "url": ""
         },
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Title",
+            "description": "Description",
             "url": ""
         },
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Title",
+            "description": "Description",
             "url": ""
         }
     ]

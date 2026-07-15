@@ -1,22 +1,26 @@
 {
   "title": "Luis Alex Farfan Moina | Portfolio",
-  "description": "Backend Developer especializado en Java y Spring Boot, con experiencia en sistemas distribuidos, procesamiento de datos y modernización de entornos legacy.",
+  "description": "Java Backend Developer specializing in Spring Boot, APIs, data-intensive systems, and large-scale migrations in enterprise environments.",
   "image": "/avatar.jpg",
   "avatar": "/avatar.jpg",
   "name": "Luis Alex Farfan Moina",
-  "skill": "Backend Developer",
-  "location": "Barcelona, España",
+  "skill": "Java Backend Developer",
+  "location": "Barcelona, Spain",
   "media": {
     "email": "farfan.luis.alex@gmail.com",
     "cv": "/data/cv.pdf",
     "github": "https://github.com/luis90alex",
-    "linkedin": "https://www.linkedin.com/in/luis-alex-f-680a18220/"
+    "linkedin": "https://www.linkedin.com/in/luis-alex-farfan"
   },
-  "about": "Backend developer con formación en Física y experiencia sólida en Java, Spring Boot, Spring Batch y Kafka. Especializado en el desarrollo de APIs, procesamiento de datos a gran escala y optimización de sistemas. He trabajado en entornos enterprise con sistemas legacy, participando en migraciones masivas de datos, mejora de rendimiento y resolución de vulnerabilidades. Destaco por un enfoque analítico, capacidad de adaptación y orientación a soluciones robustas y mantenibles.",
+  "about": "Backend Java developer with 4+ years of enterprise experience, specializing in Spring Framework, Spring Batch, REST APIs, and data-intensive backend systems in production. I complement this with hands-on projects covering Spring Boot, Kafka, microservices, Redis, and Docker — building towards modern, cloud-ready architectures. AWS Certified. Physics background gives me an analytical edge when working with complex systems and data quality challenges.",
   "technologies": [
     {
       "icon": "devicon-java-plain",
       "name": "Java / Spring Boot"
+    },
+    {
+      "icon": "devicon-spring-plain",
+      "name": "Spring Batch"
     },
     {
       "icon": "devicon-kafka-plain",
@@ -27,57 +31,57 @@
       "name": "Docker"
     },
     {
+      "icon": "devicon-mysql-plain",
+      "name": "MySQL / PostgreSQL"
+    },
+    {
+      "icon": "devicon-redis-plain",
+      "name": "Redis"
+    },
+    {
+      "icon": "devicon-amazonwebservices-plain",
+      "name": "AWS"
+    },
+    {
       "icon": "devicon-github-plain",
-      "name": "GitHub Actions"
+      "name": "GitHub Actions / CI-CD"
+    },
+    {
+      "icon": "devicon-junit-plain",
+      "name": "JUnit / Selenium / Playwright"
     },
     {
       "icon": "devicon-python-plain",
       "name": "Python"
-    },
-    {
-      "icon": "devicon-r-plain",
-      "name": "R / Análisis de datos"
-    },
-    {
-      "icon": "devicon-powerbi-plain",
-      "name": "Power BI"
-    },
-    {
-      "icon": "devicon-c-plain",
-      "name": "C / Bash / PL/I / SQL / MySQL / Oracle / DB2"
-    },
-    {
-      "icon": "devicon-selenium-plain",
-      "name": "Selenium / Playwright"
     }
   ],
   "experience": [
     {
       "icon": "briefcase",
-      "title": "Knowmad Mood",
+      "title": "Knowmad Mood (Generali)",
       "subtitle": "Java Developer / Backend Developer",
-      "description": "Desarrollo backend para Generali con foco en Spring Batch, APIs REST, optimización de rendimiento, mantenimiento de sistemas legacy, automatización y soporte a procesos de negocio. Diseñé y optimicé procesos de migración masiva de datos durante la fusión Generali-Liberty, mejorando la consistencia y la fiabilidad. También participé en la adaptación de un sistema legacy a alemán e inglés, en la resolución de vulnerabilidades de seguridad detectadas en auditorías de pentesting y en la construcción de pruebas automatizadas con Selenium y Playwright.",
-      "date": "Octubre 2021 - Actualidad"
+      "description": "Backend Java developer for Generali, focused on Spring Batch, REST APIs, data migration, and legacy system modernization. Led the migration of 40,000+ broker data agents during the Generali-Liberty merger — the first critical step of the overall migration — delivered successfully with zero bottlenecks. Improved application performance by up to 40% through database optimization and caching strategies. Coordinated a small team to adapt a legacy insurance system to German and English, enabling end-to-end policy issuance in multiple languages. Developed and maintained RESTful APIs integrating external services (AEAT, Deyde, DeepL). Resolved security vulnerabilities identified in pentesting audits. Automated operational tasks using Python, PowerShell, and JavaScript. Built automated test suites for business-critical flows using Selenium (Java) and Playwright (Python).",
+      "date": "October 2021 - Present"
     },
     {
       "icon": "book-open",
       "title": "La Mancha. Centrum języka hiszpańskiego",
-      "subtitle": "Profesor de español",
-      "description": "Impartí clases de español a estudiantes adultos en Polonia, adaptando contenidos a distintos niveles de conocimiento. Desarrollé materiales didácticos y estructuré sesiones para mejorar la participación y la retención del aprendizaje en un entorno multicultural.",
-      "date": "Julio 2020 - Junio 2021"
+      "subtitle": "Spanish Teacher",
+      "description": "Delivered Spanish language lessons to adult learners in Poland, adapting content to different proficiency levels. Developed communication and presentation skills in a multicultural environment.",
+      "date": "July 2020 - June 2021"
     }
   ],
   "projects": [
     {
       "icon": "code",
       "title": "Spring Boot REST Project",
-      "subtitle": "API backend con Java y Spring Boot",
-      "description": "API REST backend desarrollada con Java y Spring Boot, centrada en buenas prácticas, escalabilidad y mantenibilidad. Incluye autenticación JWT, Redis, Kafka, Stripe, Swagger/OpenAPI y observabilidad con Prometheus y Grafana.",
+      "subtitle": "E-commerce backend API with Java and Spring Boot",
+      "description": "Production-ready REST API backend built with Java and Spring Boot, following clean architecture principles. Features JWT authentication, Redis caching, Kafka messaging, Stripe payment integration, MySQL with Flyway migrations, Swagger/OpenAPI documentation, observability with Prometheus and Grafana, and CI/CD via GitHub Actions. Deployed on Railway.",
       "technologies": [
         { "icon": "devicon-java-plain", "name": "Java" },
         { "icon": "devicon-spring-plain", "name": "Spring Boot" },
         { "icon": "devicon-spring-plain", "name": "Spring Security / JWT" },
-        { "icon": "devicon-mysql-plain", "name": "MySQL" },
+        { "icon": "devicon-mysql-plain", "name": "MySQL / Flyway" },
         { "icon": "devicon-redis-plain", "name": "Redis" },
         { "icon": "devicon-docker-plain", "name": "Docker / Docker Compose" },
         { "icon": "devicon-kafka-plain", "name": "Kafka" },
@@ -95,7 +99,7 @@
       "icon": "layers",
       "title": "Spring Cloud Microservices Architecture",
       "subtitle": "Distributed backend with Eureka, Gateway, Feign and Config Server",
-      "description": "Microservices-based backend architecture built with Spring Boot and Spring Cloud. Includes service discovery with Eureka, API Gateway routing, centralized configuration server, and inter-service communication using OpenFeign. Demonstrates real-world patterns such as client-side load balancing, service registration, and distributed configuration management.",
+      "description": "Microservices-based backend architecture built with Spring Boot and Spring Cloud. Implements service discovery (Eureka), API Gateway routing, centralized configuration server, and inter-service communication via OpenFeign. Demonstrates real-world distributed system patterns: client-side load balancing, service registration, and distributed configuration management.",
       "technologies": [
         { "icon": "devicon-java-plain", "name": "Java" },
         { "icon": "devicon-spring-plain", "name": "Spring Boot" },
@@ -114,8 +118,8 @@
     {
       "icon": "code",
       "title": "Insurance Claim Fraud Detection",
-      "subtitle": "Detección de fraude con machine learning",
-      "description": "Proyecto de machine learning para detectar fraude en reclamaciones de seguros. Incluye limpieza de datos, análisis exploratorio, tratamiento de valores faltantes, selección de variables, comparación de modelos, ajuste de hiperparámetros y benchmark con red neuronal.",
+      "subtitle": "End-to-end ML data pipeline for fraud detection",
+      "description": "End-to-end data pipeline for insurance claim fraud detection. Covers data ingestion, cleaning, exploratory analysis, feature engineering, model selection, hyperparameter tuning, and benchmarking against a neural network baseline. Demonstrates analytical rigor and data quality practices — including handling of duplicates, missing values, and root cause tracing — transferable to backend data processing and validation systems.",
       "technologies": [
         { "icon": "devicon-python-plain", "name": "Python" },
         { "icon": "devicon-pandas-plain", "name": "pandas" },
@@ -133,8 +137,8 @@
     {
       "icon": "bar-chart-4",
       "title": "Google Data Analytics Case Study",
-      "subtitle": "Bike Share Analysis",
-      "description": "Caso de estudio de analítica de datos inspirado en el Google Data Analytics Certificate. Analiza el uso de bicicletas en Cyclistic para comparar usuarios casuales y miembros anuales y proponer estrategias de conversión basadas en datos.",
+      "subtitle": "Large-scale bike-share data analysis",
+      "description": "Data analytics case study processing millions of records from Cyclistic's bike-share system. Analyzed usage patterns across casual and annual members using Python and R to produce data-driven conversion strategy recommendations. Demonstrates structured data handling, exploratory analysis, and the ability to translate raw data into actionable insights.",
       "technologies": [
         { "icon": "devicon-python-plain", "name": "Python" },
         { "icon": "devicon-r-plain", "name": "R" },
@@ -148,9 +152,9 @@
   "training": [
     {
       "icon": "graduation-cap",
-      "title": "Universidad Autónoma de Barcelona",
-      "subtitle": "Grado en Física",
-      "description": "Formación sólida en física y matemáticas, con enfoque analítico, pensamiento estructurado y capacidad de resolución de problemas.",
+      "title": "Universitat Autònoma de Barcelona",
+      "subtitle": "Bachelor's Degree in Physics",
+      "description": "Strong analytical foundation in mathematics and physics, with focus on structured problem-solving, data analysis, and mathematical modeling.",
       "date": "2021",
       "certificate": ""
     },
@@ -158,7 +162,7 @@
       "icon": "graduation-cap",
       "title": "AWS Certified Cloud Practitioner",
       "subtitle": "Amazon Web Services",
-      "description": "Certificación que valida la comprensión de los fundamentos de la nube, los servicios principales de AWS y los conceptos básicos de seguridad, facturación, soporte y arquitectura escalable.",
+      "description": "Validates understanding of cloud fundamentals, core AWS services, security, billing, and scalable architecture concepts.",
       "date": "2025",
       "certificate": "https://www.credly.com/badges/bb334f7d-269e-457c-80f9-c22e0168c1a8/public_url"
     }
@@ -166,20 +170,20 @@
   "extras": [
     {
       "image": "/extra_1.png",
-      "title": "Pensamiento analítico",
-      "description": "Formación en Física que aporta un enfoque estructurado para resolver problemas complejos y analizar sistemas de forma eficiente.",
+      "title": "Analytical Thinking",
+      "description": "Physics background provides a structured approach to decomposing complex systems, identifying root causes, and delivering reliable solutions under pressure.",
       "url": ""
     },
     {
       "image": "/extra_2.png",
-      "title": "Optimización y eficiencia",
-      "description": "Experiencia en mejora del rendimiento de aplicaciones backend y automatización de tareas mediante scripts y herramientas para aumentar la eficiencia del desarrollo.",
+      "title": "Performance Optimization",
+      "description": "Proven track record improving backend performance by up to 40% through database optimization, caching strategies, and efficient batch processing design.",
       "url": ""
     },
     {
       "image": "/extra_3.png",
-      "title": "Diseño y arquitectura de software",
-      "description": "Conocimientos en principios SOLID, patrones de diseño y fundamentos de arquitectura backend como arquitectura hexagonal y microservicios.",
+      "title": "Software Architecture",
+      "description": "Hands-on experience with microservices, hexagonal architecture, SOLID principles, and distributed system patterns — applied in both enterprise and personal projects.",
       "url": ""
     }
   ]
